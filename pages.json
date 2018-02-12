@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Logged out Homepage",
+        "url": ""
+    },
+    {
+        "name": "User page",
+        "url": "/amitait"
+    },
+    {
+        "name": "Gig page",
+        "url": "/amitait/design-your-next-logo"
+    },
+    {
+        "name": "Search page",
+        "url": "/search/gigs?query=logo%203d%20vintage"
+    }
+]
