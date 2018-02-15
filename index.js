@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 require('colors');
 const inquirer = require('inquirer');
 const table = require('./lib/table');
@@ -36,6 +38,3 @@ try {
     console.error(error);
     return;
 }
-
-
-

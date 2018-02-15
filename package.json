@@ -4,7 +4,10 @@
   "author": "Fiverr SRE",
   "license": "MIT",
   "version": "0.1.0",
-  "main": "index.js",
+  "bin": {
+    "punch-and-judy": "./index.js",
+    "punch": "./index.js"
+  },
   "scripts": {
     "start": "node .",
     "test": "mocha test.js lib/**/test.js",
