@@ -1,4 +1,4 @@
-# Punch and Judy
+# Synthetic page load time mesurement
 
 ## Fiverr page measurer
 

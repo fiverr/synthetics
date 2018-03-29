@@ -1,12 +1,11 @@
 {
-  "name": "@fiverr/punch-and-judy",
+  "name": "@fiverr/synthetics",
   "description": "Headless browser monitors performance",
   "author": "Fiverr SRE",
   "license": "MIT",
   "version": "0.1.0",
   "bin": {
-    "punch-and-judy": "./index.js",
-    "punch": "./index.js"
+    "synthetics": "./index.js"
   },
   "scripts": {
     "start": "node .",
