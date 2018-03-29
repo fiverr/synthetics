@@ -9,6 +9,7 @@
   },
   "scripts": {
     "start": "node .",
+    "all": "node lib/all",
     "test": "mocha test.js lib/**/test.js",
     "upgrade": "npx npm-check -u"
   },

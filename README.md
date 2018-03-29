@@ -8,3 +8,8 @@ nvm use
 npm i
 npm start
 ```
+
+Run all and write to file
+```
+npm run all
+```

@@ -5,7 +5,7 @@ const inquirer = require('inquirer');
 const table = require('./lib/table');
 const page = require('./lib/page');
 
-const ROOT = 'https://www.fiverr.com';
+const {ROOT} = require('./lib/constants');
 
 const pages = require('./pages.json').map(page => Object.assign(page, { url: ROOT + page.url}));
 
