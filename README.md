@@ -13,3 +13,4 @@ Run all and write to file
 ```
 npm run all
 ```
+test something
