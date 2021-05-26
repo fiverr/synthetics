@@ -16,7 +16,7 @@
   "dependencies": {
     "cli-spinner": "^0.2.7",
     "inquirer": "^5.1.0",
-    "puppeteer": "^1.0.0",
+    "puppeteer": "^3.0.0",
     "table": "^4.0.2"
   },
   "devDependencies": {
